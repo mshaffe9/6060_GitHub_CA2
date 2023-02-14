@@ -1,4 +1,4 @@
-# 6060_GitHub_CA2
+# 6070_GitHub_CA2
 
 The purpose of this assignment is to run the Naive Bias algorithm and comment on the coding process. Some of the code was already given to me, so my main task was spent understanding and commenting on the code that is required to run the algorithm. 
 
